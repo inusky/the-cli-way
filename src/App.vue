@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { ref } from 'vue';
 import FriendContact from './components/FriendContact.vue';
 </script>
 
